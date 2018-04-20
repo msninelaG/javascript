@@ -1,1 +1,6 @@
-#nothing in the document yet, I will add more as I move on
+Repo owner details
+Full Name - Malusi Ninela
+Email address - msninela@gmail.com
+Contact Number - available on request
+
+About this Repo
