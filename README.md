@@ -11,6 +11,7 @@ Here I am covering basics on Javascript, within this content, and sequentially,
 - Arrays
 - Loops
 - Conditionals
+- Objects
 
 Please go through these files, in this order.
 
