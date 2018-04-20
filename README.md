@@ -1,9 +1,10 @@
 Repo owner details
-Full Name - Malusi Ninela
-Email address - msninela@gmail.com
-Contact Number - available on request
+- Full Name - Malusi Ninela
+- Email address - msninela@gmail.com
+- Contact Number - available on request
 
 About this Repo
+
 Here I am covering basics on Javascript, within this content, and sequentially,
 
 - Variables and Array
