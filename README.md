@@ -30,6 +30,7 @@ You, please when you check this out to your working environment, you can uncomme
 Do not worry about styling (style.css) I used, not unless you want to learn CSS as well, then you can pay attention to it.
 
 2 May 2018
+
 What has been included?
 
 One of the most important aspects in running Javascripts is EVENTS, because Javascript was created
@@ -41,9 +42,8 @@ to make web pages interactive and dynamic. In order to do that, you need to have
 EVENTS have been included
 
 
-What is still coming?
+What is still coming? FORMS. 
 
-Currently working on FORMS. 
 
 Why FORMS? 
 Javascript plays a very big role in forms (screens) validation.
