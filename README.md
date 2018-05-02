@@ -21,13 +21,16 @@ You will notice that on index html file, I have commented out some execution of 
     <!script src="Arrays.js"></script>
     <!script src="Loops.js"><!script>
     <!script src="Conditionals.js"></script>
-    <script src="Objects.js"></script>
+    <!script src="Objects.js"></script>
+    <!script src="Events.js"></script>
+    <script src="Forms.js"></script>
 	
 You, please when you check this out to your working environment, you can uncomment the script you want to execute.
 
 Do not worry about styling (style.css) I used, not unless you want to learn CSS as well, then you can pay attention to it.
 
-What is to follow?
+2 May 2018
+What has been included?
 
 One of the most important aspects in running Javascripts is EVENTS, because Javascript was created
 to make web pages interactive and dynamic. In order to do that, you need to have some kind of events handling
@@ -35,4 +38,13 @@ to make web pages interactive and dynamic. In order to do that, you need to have
 - For scroll
 - For drag, and whatever the case may be. 
 
-Therefore, what I will add next will be EVENTS. 
+EVENTS have been included
+
+
+What is still coming?
+
+Currently working on FORMS. 
+
+Why FORMS? 
+Javascript plays a very big role in forms (screens) validation.
+
