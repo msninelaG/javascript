@@ -7,15 +7,49 @@
     <!script src="Arrays.js"></script>
     <!script src="Loops.js"><!script>
     <!script src="Conditionals.js"></script>
-    <script src="Objects.js"></script>
+    <!script src="Objects.js"></script>
+    <!script src="Events.js"></script>
+    <script src="Forms.js"></script>
 </head>
-<body>
+<body onload=showDateLoad()> <!this is to load something when the page starts, it is of course done on body>
 <div class="header">
-    <h1>Learning Javascript</h1>
+    <h1 id="heading">Learning Javascript</h1>
     <p>With Malusi Ninela</p>
 </div>
 
 <div class="container">
+<button onclick="doClick()"> Simple Alert </button> <!The doclick function is from the events script>
+<button onclick= "this.innerHTML = 'You Clicked! built on'" > Built on Click </button>
+<button onclick= "changeText(this)"> Custom Click </button> <!this, in this case referes to this ID (button)>
+<button onclick="changeHeading()"> Change Heading </button> <!changeHeading() function is defined on Events script>
+<button onclick="showDateClick()"> Show Date, click </button> <!changeHeading() function is defined on Events script>
+<button onmouseout="clearDate()" onmouseover="showDateMouse()"> Show Date, mouse </button> <!changeHeading() function is defined on Events script>
+<h1 id="time">click show date</h1>
+
+<form method="post" action="something.php" name="myForm">
+    <div>
+        <label>First Name</label>
+        <input type="text" name="firstName" id="firstName">
+    </div>
+    <br/>
+
+    <div>
+        <label>Last Name</label>
+        <input type="text" name="lastName" id="lastName">
+    </div>
+    <br/>
+
+    <div>
+        <label>Background</label>
+        <select name="background" id="background">
+            <option value="red">Red</option>
+            <option value="blue">Blue</option>
+            <option value="green">Green</option>
+        </select>
+    </div>
+    <br/>
+    <input type="submit" value="submit">
+</form>
 
 </div>
 
