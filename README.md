@@ -39,7 +39,7 @@ to make web pages interactive and dynamic. In order to do that, you need to have
 - For scroll
 - For drag, and whatever the case may be. 
 
-EVENTS have been included
+Hence EVENTS have been included
 
 
 What is still coming? FORMS. 
